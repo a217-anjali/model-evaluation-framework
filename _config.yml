@@ -1,3 +1,23 @@
-theme: jekyll-theme-primer
-title: Model Evaluation Framework for LLMs in the UK Public Sector
-description: An evaluation-driven framework for AI development and deployment in the UK public sector
+remote_theme: just-the-docs/just-the-docs
+
+title: Model Evaluation Framework
+description: Evaluating LLMs in the UK Public Sector
+
+color_scheme: dark
+
+aux_links:
+  "View on GitHub":
+    - "https://github.com/a217-anjali/model-evaluation-framework"
+
+nav_enabled: true
+search_enabled: true
+
+heading_anchors: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Model Evaluation Framework for LLMs in the UK Public Sector"
+
+plugins:
+  - jekyll-remote-theme
