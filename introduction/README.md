@@ -8,6 +8,8 @@ This section provides the foundations for the Model Evaluation Framework for LLM
 
 AI assurance is the process of measuring, evaluating, and communicating the trustworthiness of AI systems. It combines technical assurance with socio-technical assurance.
 
+There are two types of evaluation: **model evaluation**, which looks at how well an AI system performs and behaves in its intended use, and **impact evaluation**, which assesses the real-world effects on users, services, and outcomes. This framework covers model evaluation.
+
 Three terms are often used interchangeably but mean different things:
 
 - **Testing** generates evidence

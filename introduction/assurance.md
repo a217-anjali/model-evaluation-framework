@@ -9,6 +9,8 @@ nav_order: 1
 
 AI assurance is the process of measuring, evaluating, and communicating the trustworthiness of AI systems. It combines technical assurance with socio-technical assurance to give users, regulators, and the public confidence that AI systems are safe, fair, and accountable.
 
+There are two types of evaluation: **model evaluation**, which looks at how well an AI system performs and behaves in its intended use, and **impact evaluation**, which assesses the real-world effects on users, services, and outcomes. This framework covers model evaluation.
+
 ---
 
 ## Key distinction
