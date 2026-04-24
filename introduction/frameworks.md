@@ -29,7 +29,7 @@ Four frameworks work together. Each has one job. None duplicates another.
 | Know what to evaluate and when | This framework — Lifecycle section |
 | Run a specific test (bias, robustness, performance) | [Cross-Gov AI Testing Framework](https://testing-ai-standards.github.io/cross-gov-ai-testing-framework/) |
 | Identify and score risks | [AI Risk Management Toolkit](https://www.gov.uk/government/publications/ai-risk-management-toolkit) |
-| Understand governance gates and evidence requirements | This framework — Governance section |
+| Understand governance gates and evidence | This framework — Governance section |
 | Assign a risk tier (R1–R4) | This framework — [Risk Tiering](risk-tiering) |
 | Find legal/regulatory requirements | This framework — Lifecycle Phase 3 |
 | Understand impact evaluation | [Magenta Book](https://www.gov.uk/government/publications/the-magenta-book) |
