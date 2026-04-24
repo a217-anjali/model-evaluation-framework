@@ -6,7 +6,7 @@ This section provides the foundations for the Model Evaluation Framework for LLM
 
 ## AI Assurance
 
-AI assurance is the process of measuring, evaluating, and communicating the trustworthiness of AI systems. It combines technical assurance (evaluation, validation, verification, and testing) with socio-technical assurance (explainability, ethics, governance, and human oversight).
+AI assurance is the process of measuring, evaluating, and communicating the trustworthiness of AI systems. It combines technical assurance with socio-technical assurance.
 
 Three terms are often used interchangeably but mean different things:
 

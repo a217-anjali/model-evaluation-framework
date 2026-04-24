@@ -7,7 +7,7 @@ nav_order: 1
 
 # AI Assurance in Brief
 
-AI assurance is the process of measuring, evaluating, and communicating the trustworthiness of AI systems. It combines technical assurance (evaluation, validation, verification, and testing) with socio-technical assurance (explainability, ethics, governance, and human oversight) to give users, regulators, and the public confidence that AI systems are safe, fair, and accountable.
+AI assurance is the process of measuring, evaluating, and communicating the trustworthiness of AI systems. It combines technical assurance with socio-technical assurance to give users, regulators, and the public confidence that AI systems are safe, fair, and accountable.
 
 ---
 
