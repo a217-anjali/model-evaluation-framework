@@ -29,7 +29,6 @@ This framework works alongside three companion frameworks — each has one job, 
 | **This framework** | What to evaluate, when, and what evidence to produce |
 | [Cross-Gov AI Testing Framework](https://testing-ai-standards.github.io/cross-gov-ai-testing-framework/) | How to test — 9 modules, techniques, metrics per AI type |
 | [AI Risk Management Toolkit](https://www.gov.uk/government/publications/ai-risk-management-toolkit) | How to assess risk — identify, score, treat |
-| E2VT Operating Model | How deeply — risk tiers, gates, evidence catalogue |
 
 ## Source documents
 

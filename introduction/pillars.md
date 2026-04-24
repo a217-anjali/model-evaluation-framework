@@ -7,7 +7,7 @@ nav_order: 2
 
 # Pillars
 
-Seven principles underpin this framework. They are drawn from the E2VT operating model and aligned with the AI Playbook, Service Standard, and Data & AI Ethics Framework.
+Seven principles underpin this framework, aligned with the AI Playbook, Service Standard, and Data & AI Ethics Framework.
 
 ---
 

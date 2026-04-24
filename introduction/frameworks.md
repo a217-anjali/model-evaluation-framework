@@ -7,7 +7,7 @@ nav_order: 4
 
 # How the Frameworks Fit Together
 
-Four frameworks work together. Each has one job. None duplicates another.
+Three frameworks work together. Each has one job. None duplicates another.
 
 ---
 
@@ -18,7 +18,6 @@ Four frameworks work together. Each has one job. None duplicates another.
 | **1** | **This framework** | What to evaluate, when, and what evidence to produce |
 | **2** | [Cross-Gov AI Testing Framework](https://testing-ai-standards.github.io/cross-gov-ai-testing-framework/) | How to test — 9 modules, techniques, metrics per AI type |
 | **3** | [AI Risk Management Toolkit](https://www.gov.uk/government/publications/ai-risk-management-toolkit) | How to assess risk — identify, score, treat |
-| **4** | E2VT Operating Model | How deeply — risk tiers, gates, evidence catalogue, RACI |
 
 ---
 
@@ -42,7 +41,7 @@ Four frameworks work together. Each has one job. None duplicates another.
 2. **Use the AI Risk Management Toolkit** — at Phase 1 to identify and score risks
 3. **Follow this framework's lifecycle** — phase by phase, gate by gate
 4. **Use the Cross-Gov Testing Framework** — bridge files point to the right module
-5. **Collect evidence per E2VT** — the catalogue tells you what artefacts to produce
+5. **Collect evidence** — the catalogue tells you what artefacts to produce for your tier
 6. **Pass each governance gate** — with the required evidence signed off
 
 ---

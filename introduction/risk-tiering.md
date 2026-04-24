@@ -17,7 +17,7 @@ Every AI deployment carries different levels of risk. This framework uses four r
 |------|--------------|-----------------|-----------------|
 | **R1** | Minimal | Internal content search, low-consequence summarisation | Basic offline eval; logs; lightweight privacy and security checks |
 | **R2** | Cautious | Staff productivity tools, non-critical internal advice | Expanded offline eval; calibration; bias screen; red-team lite; monitoring SLOs |
-| **R3** | Open | Benefits triage, sensitive citizen advice, eligibility checks | Formal E2VT; domain SME panels; comprehensive red-teaming; human-in-the-loop |
+| **R3** | Open | Benefits triage, sensitive citizen advice, eligibility checks | Formal evaluation; domain SME panels; comprehensive red-teaming; human-in-the-loop |
 | **R4** | Eager | Safety/security decisions, legal exposure, vulnerable cohorts | Independent assurance; external audit; canary with kill-switch; quarterly re-certification |
 
 ---

@@ -20,7 +20,7 @@ This framework focuses on model evaluation — how well an AI system performs an
 
 ## Pillars
 
-Seven principles underpin this framework, drawn from the E2VT operating model and aligned with the AI Playbook, Service Standard, and Data & AI Ethics Framework.
+Seven principles underpin this framework, aligned with the AI Playbook, Service Standard, and Data & AI Ethics Framework.
 
 1. **Risk-proportionate, trustworthy and safe AI** — Controls scale with potential harm, impact, and autonomy. Align with the five cross-sectoral principles: safety, transparency, fairness, accountability, and contestability.
 
@@ -46,7 +46,7 @@ This framework uses four risk tiers to scale evaluation effort proportionately. 
 |------|--------------|---------|----------|
 | **R1** | Minimal | Internal summarisation | Basic offline eval, logs, lightweight checks |
 | **R2** | Cautious | Staff productivity tools | Expanded eval, bias screen, red-team lite |
-| **R3** | Open | Benefits triage, citizen advice | Full E2VT, domain SME panels, human-in-the-loop |
+| **R3** | Open | Benefits triage, citizen advice | Formal evaluation, domain SME panels, human-in-the-loop |
 | **R4** | Eager | Safety decisions, vulnerable cohorts | Independent audit, canary with kill-switch, quarterly re-certification |
 
 Your tier is determined by the highest risk appetite level across your significant risk categories. If any category scores R3, your project is R3 — you do not average down. Use the [AI Risk Management Toolkit](https://www.gov.uk/government/publications/ai-risk-management-toolkit) to assign your tier.
@@ -57,16 +57,14 @@ The tier determines everything: governance gate depth, evidence catalogue size, 
 
 ## How the Frameworks Fit Together
 
-Four frameworks work together. Each has one job.
+Three frameworks work together. Each has one job.
 
 | Framework | What it does |
 |-----------|-------------|
 | **This framework** | What to evaluate, when, and what evidence to produce |
 | [Cross-Gov AI Testing Framework](https://testing-ai-standards.github.io/cross-gov-ai-testing-framework/) | How to test — 9 modules with techniques and metrics per AI type |
 | [AI Risk Management Toolkit](https://www.gov.uk/government/publications/ai-risk-management-toolkit) | How to assess risk — 9 categories, 100+ questions, scoring, treatment |
-| E2VT Operating Model | How deeply — risk tiers, governance gates, evidence catalogue, RACI |
-
-In practice, a team would: start here to understand their risk tier and what to evaluate; use the Risk Management Toolkit to identify and score risks; follow this framework's lifecycle phase by phase; use the Cross-Gov Testing Framework when they need to run a specific test; collect the evidence artefacts required by E2VT for their tier; and pass each governance gate with signed-off evidence before moving to the next phase.
+In practice, a team would: start here to understand their risk tier and what to evaluate; use the Risk Management Toolkit to identify and score risks; follow this framework's lifecycle phase by phase; use the Cross-Gov Testing Framework when they need to run a specific test; collect the evidence artefacts required for their tier; and pass each governance gate with signed-off evidence before moving to the next phase.
 
 The [Magenta Book](https://www.gov.uk/government/publications/the-magenta-book) covers impact evaluation, which is complementary but separate. This framework shows where impact evaluation connects at each lifecycle stage.
 
