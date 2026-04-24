@@ -2,8 +2,6 @@
 
 This framework helps UK public sector teams evaluate Large Language Models before, during, and after deployment. It tells you **what** to evaluate, **when** in the lifecycle, and **what evidence** to produce — scaled to the risk level of your use case.
 
-It does not duplicate existing guidance. It connects four published frameworks into a single, usable journey.
-
 ## Who this is for
 
 Service owners, product owners, principal technologists, data scientists, ML engineers, safety and assurance teams, delivery leads, and DDaT governance.
